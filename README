@@ -1,0 +1,5 @@
+Small prototype board, 15 holes wide in main area.
+It also contains:
+    1X Power connector (5.5mm / 2.1mm barrel jack, center positive)
+    1X Programming connector area (6 pin for PICKIT or 3X2 pin for AVR)
+    1X 6mm square switch (possible to cram in two smaller switches)

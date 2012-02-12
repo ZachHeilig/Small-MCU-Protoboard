@@ -1,0 +1,518 @@
+# EESchema Netlist Version 1.1 created  1/26/2012 6:06:09 AM
+(
+ ( /4F213E8D $noname  P52 CONN_6 {Lib=CONN_6}
+  (    1 N-000062 )
+  (    2 N-000063 )
+  (    3 N-000064 )
+  (    4 N-000065 )
+  (    5 N-000066 )
+  (    6 N-000067 )
+ )
+ ( /4F213E8C $noname  P51 CONN_6 {Lib=CONN_6}
+  (    1 N-000062 )
+  (    2 N-000063 )
+  (    3 N-000064 )
+  (    4 N-000065 )
+  (    5 N-000066 )
+  (    6 N-000067 )
+ )
+ ( /4F211BCE $noname  P49 1pin {Lib=CONN_1}
+  (    1 N-000068 )
+ )
+ ( /4F211BCB $noname  P50 1pin {Lib=CONN_1}
+  (    1 N-000069 )
+ )
+ ( /4F20BB74 $noname  J1 POWER {Lib=JACK_POWER}
+  (    1 /BUS1 )
+  (    2 /BUS2 )
+  (    3 ? )
+ )
+ ( /4F1FD18A $noname  P1 CONN_6 {Lib=CONN_6}
+  (    1 N-000058 )
+  (    2 N-000059 )
+  (    3 N-000057 )
+  (    4 N-000060 )
+  (    5 N-000056 )
+  (    6 N-000061 )
+ )
+ ( /4F1FD187 $noname  P2 CONN_6 {Lib=CONN_6}
+  (    1 N-000058 )
+  (    2 N-000059 )
+  (    3 N-000057 )
+  (    4 N-000060 )
+  (    5 N-000056 )
+  (    6 N-000061 )
+ )
+ ( /4F1FD12E $noname  P40 CONN_7 {Lib=CONN_7}
+  (    1 N-000071 )
+  (    2 N-000072 )
+  (    3 N-000073 )
+  (    4 N-000074 )
+  (    5 N-000075 )
+  (    6 N-000076 )
+  (    7 N-000077 )
+ )
+ ( /4F1FD12D $noname  P38 CONN_7 {Lib=CONN_7}
+  (    1 N-000071 )
+  (    2 N-000072 )
+  (    3 N-000073 )
+  (    4 N-000074 )
+  (    5 N-000075 )
+  (    6 N-000076 )
+  (    7 N-000077 )
+ )
+ ( /4F1FD122 $noname  P37 CONN_7 {Lib=CONN_7}
+  (    1 N-000009 )
+  (    2 N-000010 )
+  (    3 N-000011 )
+  (    4 N-000012 )
+  (    5 N-000013 )
+  (    6 N-000014 )
+  (    7 N-000015 )
+ )
+ ( /4F1FD11C $noname  P39 CONN_7 {Lib=CONN_7}
+  (    1 N-000009 )
+  (    2 N-000010 )
+  (    3 N-000011 )
+  (    4 N-000012 )
+  (    5 N-000013 )
+  (    6 N-000014 )
+  (    7 N-000015 )
+ )
+ ( /4F1FD0F6 $noname  P47 CONN_8 {Lib=CONN_8}
+  (    1 N-000022 )
+  (    2 N-000023 )
+  (    3 N-000016 )
+  (    4 N-000017 )
+  (    5 N-000018 )
+  (    6 N-000019 )
+  (    7 N-000020 )
+  (    8 N-000021 )
+ )
+ ( /4F1FD0F5 $noname  P45 CONN_8 {Lib=CONN_8}
+  (    1 N-000022 )
+  (    2 N-000023 )
+  (    3 N-000016 )
+  (    4 N-000017 )
+  (    5 N-000018 )
+  (    6 N-000019 )
+  (    7 N-000020 )
+  (    8 N-000021 )
+ )
+ ( /4F1FD0C9 $noname  P46 CONN_8 {Lib=CONN_8}
+  (    1 N-000001 )
+  (    2 N-000002 )
+  (    3 N-000003 )
+  (    4 N-000004 )
+  (    5 N-000005 )
+  (    6 N-000006 )
+  (    7 N-000007 )
+  (    8 N-000008 )
+ )
+ ( /4F1FD0C7 $noname  P48 CONN_8 {Lib=CONN_8}
+  (    1 N-000001 )
+  (    2 N-000002 )
+  (    3 N-000003 )
+  (    4 N-000004 )
+  (    5 N-000005 )
+  (    6 N-000006 )
+  (    7 N-000007 )
+  (    8 N-000008 )
+ )
+ ( /4F1FD0B9 $noname  U1 DIP28 {Lib=DIP28}
+  (    1 N-000024 )
+  (    2 N-000025 )
+  (    3 N-000026 )
+  (    4 N-000027 )
+  (    5 N-000028 )
+  (    6 N-000029 )
+  (    7 N-000030 )
+  (    8 N-000031 )
+  (    9 N-000032 )
+  (   10 N-000033 )
+  (   11 N-000035 )
+  (   12 N-000037 )
+  (   13 N-000039 )
+  (   14 N-000041 )
+  (   15 N-000043 )
+  (   16 N-000045 )
+  (   17 N-000047 )
+  (   18 N-000049 )
+  (   19 N-000051 )
+  (   20 N-000034 )
+  (   21 N-000036 )
+  (   22 N-000038 )
+  (   23 N-000040 )
+  (   24 N-000042 )
+  (   25 N-000044 )
+  (   26 N-000046 )
+  (   27 N-000048 )
+  (   28 N-000050 )
+ )
+ ( /4F191854 $noname  P21 2pin {Lib=CONN_1}
+  (    1 N-000053 )
+ )
+ ( /4F191851 $noname  P18 2pin {Lib=CONN_1}
+  (    1 N-000052 )
+ )
+ ( /4F19184A $noname  P19 2pin {Lib=CONN_1}
+  (    1 N-000052 )
+ )
+ ( /4F191847 $noname  P36 2pin {Lib=CONN_1}
+  (    1 N-000053 )
+ )
+ ( /4F18FFBA $noname  P42 V-_RAIL {Lib=CONN_1}
+  (    1 /BUS2 )
+ )
+ ( /4F18FFA0 $noname  P43 V+_RAIL {Lib=CONN_1}
+  (    1 /BUS1 )
+ )
+ ( /4F18FC58 $noname  P3 1pin {Lib=CONN_1}
+  (    1 N-000068 )
+ )
+ ( /4F18FC55 $noname  P20 1pin {Lib=CONN_1}
+  (    1 N-000069 )
+ )
+ ( /4F18FC45 $noname  SW1 PUSH_SWITCH {Lib=PUSH_SWITCH}
+  (    1 N-000068 )
+  (    2 N-000069 )
+ )
+ ( /4F18F9E0 $noname  P17 3pin {Lib=CONN_1}
+  (    1 N-000041 )
+ )
+ ( /4F18F9DF $noname  P16 3pin {Lib=CONN_1}
+  (    1 N-000039 )
+ )
+ ( /4F18F9DE $noname  P15 3pin {Lib=CONN_1}
+  (    1 N-000037 )
+ )
+ ( /4F18F9DD $noname  P14 3pin {Lib=CONN_1}
+  (    1 N-000035 )
+ )
+ ( /4F18F9D9 $noname  P32 3pin {Lib=CONN_1}
+  (    1 N-000049 )
+ )
+ ( /4F18F9D8 $noname  P33 3pin {Lib=CONN_1}
+  (    1 N-000047 )
+ )
+ ( /4F18F9D7 $noname  P34 3pin {Lib=CONN_1}
+  (    1 N-000045 )
+ )
+ ( /4F18F9D6 $noname  P35 3pin {Lib=CONN_1}
+  (    1 N-000043 )
+ )
+ ( /4F18F7AC $noname  P4 3pin {Lib=CONN_1}
+  (    1 N-000024 )
+ )
+ ( /4F18F7AB $noname  P5 3pin {Lib=CONN_1}
+  (    1 N-000025 )
+ )
+ ( /4F18F7AA $noname  P6 3pin {Lib=CONN_1}
+  (    1 N-000026 )
+ )
+ ( /4F18F7A9 $noname  P7 3pin {Lib=CONN_1}
+  (    1 N-000027 )
+ )
+ ( /4F18F7A8 $noname  P8 3pin {Lib=CONN_1}
+  (    1 N-000028 )
+ )
+ ( /4F18F7A7 $noname  P9 3pin {Lib=CONN_1}
+  (    1 N-000029 )
+ )
+ ( /4F18F7A6 $noname  P10 3pin {Lib=CONN_1}
+  (    1 N-000030 )
+ )
+ ( /4F18F7A5 $noname  P11 3pin {Lib=CONN_1}
+  (    1 N-000031 )
+ )
+ ( /4F18F7A4 $noname  P12 3pin {Lib=CONN_1}
+  (    1 N-000032 )
+ )
+ ( /4F18F7A3 $noname  P13 3pin {Lib=CONN_1}
+  (    1 N-000033 )
+ )
+ ( /4F18F792 $noname  P44 V-_RAIL {Lib=CONN_1}
+  (    1 /BUS2 )
+ )
+ ( /4F18F787 $noname  P41 V+_RAIL {Lib=CONN_1}
+  (    1 /BUS1 )
+ )
+ ( /4F18F738 $noname  P31 3pin {Lib=CONN_1}
+  (    1 N-000051 )
+ )
+ ( /4F18F736 $noname  P30 3pin {Lib=CONN_1}
+  (    1 N-000034 )
+ )
+ ( /4F18F735 $noname  P29 3pin {Lib=CONN_1}
+  (    1 N-000036 )
+ )
+ ( /4F18F733 $noname  P28 3pin {Lib=CONN_1}
+  (    1 N-000038 )
+ )
+ ( /4F18F732 $noname  P27 3pin {Lib=CONN_1}
+  (    1 N-000040 )
+ )
+ ( /4F18F731 $noname  P26 3pin {Lib=CONN_1}
+  (    1 N-000042 )
+ )
+ ( /4F18F730 $noname  P25 3pin {Lib=CONN_1}
+  (    1 N-000044 )
+ )
+ ( /4F18F72F $noname  P24 3pin {Lib=CONN_1}
+  (    1 N-000046 )
+ )
+ ( /4F18F72E $noname  P23 3pin {Lib=CONN_1}
+  (    1 N-000048 )
+ )
+ ( /4F18F72B $noname  P22 3pin {Lib=CONN_1}
+  (    1 N-000050 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component J1
+ JACK*
+$endlist
+$component U1
+ DIP-28*
+$endlist
+$component SW1
+ SW*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "" ""
+ P46 1
+ P48 1
+Net 2 "" ""
+ P46 2
+ P48 2
+Net 3 "" ""
+ P46 3
+ P48 3
+Net 4 "" ""
+ P46 4
+ P48 4
+Net 5 "" ""
+ P48 5
+ P46 5
+Net 6 "" ""
+ P48 6
+ P46 6
+Net 7 "" ""
+ P46 7
+ P48 7
+Net 8 "" ""
+ P48 8
+ P46 8
+Net 9 "" ""
+ P39 1
+ P37 1
+Net 10 "" ""
+ P39 2
+ P37 2
+Net 11 "" ""
+ P39 3
+ P37 3
+Net 12 "" ""
+ P39 4
+ P37 4
+Net 13 "" ""
+ P39 5
+ P37 5
+Net 14 "" ""
+ P39 6
+ P37 6
+Net 15 "" ""
+ P39 7
+ P37 7
+Net 16 "" ""
+ P47 3
+ P45 3
+Net 17 "" ""
+ P45 4
+ P47 4
+Net 18 "" ""
+ P45 5
+ P47 5
+Net 19 "" ""
+ P45 6
+ P47 6
+Net 20 "" ""
+ P45 7
+ P47 7
+Net 21 "" ""
+ P47 8
+ P45 8
+Net 22 "" ""
+ P47 1
+ P45 1
+Net 23 "" ""
+ P47 2
+ P45 2
+Net 24 "" ""
+ U1 1
+ P4 1
+Net 25 "" ""
+ P5 1
+ U1 2
+Net 26 "" ""
+ P6 1
+ U1 3
+Net 27 "" ""
+ P7 1
+ U1 4
+Net 28 "" ""
+ P8 1
+ U1 5
+Net 29 "" ""
+ U1 6
+ P9 1
+Net 30 "" ""
+ U1 7
+ P10 1
+Net 31 "" ""
+ U1 8
+ P11 1
+Net 32 "" ""
+ P12 1
+ U1 9
+Net 33 "" ""
+ U1 10
+ P13 1
+Net 34 "" ""
+ U1 20
+ P30 1
+Net 35 "" ""
+ P14 1
+ U1 11
+Net 36 "" ""
+ P29 1
+ U1 21
+Net 37 "" ""
+ U1 12
+ P15 1
+Net 38 "" ""
+ U1 22
+ P28 1
+Net 39 "" ""
+ P16 1
+ U1 13
+Net 40 "" ""
+ U1 23
+ P27 1
+Net 41 "" ""
+ P17 1
+ U1 14
+Net 42 "" ""
+ U1 24
+ P26 1
+Net 43 "" ""
+ P35 1
+ U1 15
+Net 44 "" ""
+ U1 25
+ P25 1
+Net 45 "" ""
+ P34 1
+ U1 16
+Net 46 "" ""
+ U1 26
+ P24 1
+Net 47 "" ""
+ P33 1
+ U1 17
+Net 48 "" ""
+ P23 1
+ U1 27
+Net 49 "" ""
+ P32 1
+ U1 18
+Net 50 "" ""
+ P22 1
+ U1 28
+Net 51 "" ""
+ U1 19
+ P31 1
+Net 52 "" ""
+ P18 1
+ P19 1
+Net 53 "" ""
+ P21 1
+ P36 1
+Net 54 "/BUS2" "BUS2"
+ J1 2
+ P44 1
+ P42 1
+Net 55 "/BUS1" "BUS1"
+ P41 1
+ J1 1
+ P43 1
+Net 56 "" ""
+ P1 5
+ P2 5
+Net 57 "" ""
+ P1 3
+ P2 3
+Net 58 "" ""
+ P2 1
+ P1 1
+Net 59 "" ""
+ P1 2
+ P2 2
+Net 60 "" ""
+ P1 4
+ P2 4
+Net 61 "" ""
+ P1 6
+ P2 6
+Net 62 "" ""
+ P51 1
+ P52 1
+Net 63 "" ""
+ P52 2
+ P51 2
+Net 64 "" ""
+ P52 3
+ P51 3
+Net 65 "" ""
+ P52 4
+ P51 4
+Net 66 "" ""
+ P52 5
+ P51 5
+Net 67 "" ""
+ P52 6
+ P51 6
+Net 68 "" ""
+ SW1 1
+ P3 1
+ P49 1
+Net 69 "" ""
+ P20 1
+ SW1 2
+ P50 1
+Net 71 "" ""
+ P38 1
+ P40 1
+Net 72 "" ""
+ P38 2
+ P40 2
+Net 73 "" ""
+ P40 3
+ P38 3
+Net 74 "" ""
+ P40 4
+ P38 4
+Net 75 "" ""
+ P38 5
+ P40 5
+Net 76 "" ""
+ P38 6
+ P40 6
+Net 77 "" ""
+ P38 7
+ P40 7
+}
+#End

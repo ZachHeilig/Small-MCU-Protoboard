@@ -1,0 +1,388 @@
+Cmp-Mod V01 Created by CvPcb (2011-11-27 BZR 3249)-stable date = 1/26/2012 5:54:24 AM
+
+BeginCmp
+TimeStamp = /4F20BB74;
+Reference = J1;
+ValeurCmp = JACK_POWER;
+IdModule  = JACK_POWER_PROTO;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD18A;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD187;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18FC58;
+Reference = P3;
+ValeurCmp = 1pin;
+IdModule  = ROW_HOLES_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7AC;
+Reference = P4;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7AB;
+Reference = P5;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7AA;
+Reference = P6;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A9;
+Reference = P7;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A8;
+Reference = P8;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A7;
+Reference = P9;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A6;
+Reference = P10;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A5;
+Reference = P11;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A4;
+Reference = P12;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F7A3;
+Reference = P13;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9DD;
+Reference = P14;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9DE;
+Reference = P15;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9DF;
+Reference = P16;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9E0;
+Reference = P17;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F191851;
+Reference = P18;
+ValeurCmp = 2pin;
+IdModule  = ROW_HOLES_2_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F19184A;
+Reference = P19;
+ValeurCmp = 2pin;
+IdModule  = ROW_HOLES_2_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18FC55;
+Reference = P20;
+ValeurCmp = 1pin;
+IdModule  = ROW_HOLES_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F191854;
+Reference = P21;
+ValeurCmp = 2pin;
+IdModule  = ROW_HOLES_2_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F72B;
+Reference = P22;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F72E;
+Reference = P23;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F72F;
+Reference = P24;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F730;
+Reference = P25;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F731;
+Reference = P26;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F732;
+Reference = P27;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F733;
+Reference = P28;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F735;
+Reference = P29;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F736;
+Reference = P30;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F738;
+Reference = P31;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9D9;
+Reference = P32;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9D8;
+Reference = P33;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9D7;
+Reference = P34;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F9D6;
+Reference = P35;
+ValeurCmp = 3pin;
+IdModule  = ROW_HOLES_3_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F191847;
+Reference = P36;
+ValeurCmp = 2pin;
+IdModule  = ROW_HOLES_2_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD122;
+Reference = P37;
+ValeurCmp = CONN_7;
+IdModule  = ROW_HOLES_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD12D;
+Reference = P38;
+ValeurCmp = CONN_7;
+IdModule  = ROW_HOLES_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD11C;
+Reference = P39;
+ValeurCmp = CONN_7;
+IdModule  = ROW_HOLES_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD12E;
+Reference = P40;
+ValeurCmp = CONN_7;
+IdModule  = ROW_HOLES_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F787;
+Reference = P41;
+ValeurCmp = V+_RAIL;
+IdModule  = ROW_HOLES_17_BUS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18FFBA;
+Reference = P42;
+ValeurCmp = V-_RAIL;
+IdModule  = ROW_HOLES_17_BUS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18FFA0;
+Reference = P43;
+ValeurCmp = V+_RAIL;
+IdModule  = ROW_HOLES_13_BUS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18F792;
+Reference = P44;
+ValeurCmp = V-_RAIL;
+IdModule  = ROW_HOLES_13_BUS;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD0F5;
+Reference = P45;
+ValeurCmp = CONN_8;
+IdModule  = ROW_HOLES_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD0C9;
+Reference = P46;
+ValeurCmp = CONN_8;
+IdModule  = ROW_HOLES_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD0F6;
+Reference = P47;
+ValeurCmp = CONN_8;
+IdModule  = ROW_HOLES_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD0C7;
+Reference = P48;
+ValeurCmp = CONN_8;
+IdModule  = ROW_HOLES_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F211BCE;
+Reference = P49;
+ValeurCmp = 1pin;
+IdModule  = ROW_HOLES_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F211BCB;
+Reference = P50;
+ValeurCmp = 1pin;
+IdModule  = ROW_HOLES_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F213E8C;
+Reference = P51;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F213E8D;
+Reference = P52;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F18FC45;
+Reference = SW1;
+ValeurCmp = PUSH_SWITCH;
+IdModule  = SW-TACT-6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1FD0B9;
+Reference = U1;
+ValeurCmp = DIP28;
+IdModule  = DIP-28-300-PLAIN;
+EndCmp
+
+EndListe
