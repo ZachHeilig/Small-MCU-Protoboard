@@ -1,13 +1,5 @@
-EESchema Schematic File Version 2  date 1/26/2012 6:15:53 AM
-LIBS:z_audio
-LIBS:z_clock
-LIBS:z_connector
-LIBS:z_digital
-LIBS:z_discrete
-LIBS:z_microcontroller
-LIBS:z_power
-LIBS:z_transducer
-LIBS:z_vintage_ic
+EESchema Schematic File Version 2  date 2/14/2012 2:29:37 AM
+LIBS:zach_components
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -45,7 +37,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title "Protoboard for up to 18pin Microcontrollers (AVR & PIC)"
-Date "26 jan 2012"
+Date "14 feb 2012"
 Rev "1"
 Comp "Zachary Heilig"
 Comment1 ""
@@ -53,6 +45,24 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L MOUNT MNT2
+U 1 1 4F3A17D5
+P 3800 3650
+F 0 "MNT2" H 3800 3550 60  0000 C CNN
+F 1 "MOUNT" H 3800 3750 60  0000 C CNN
+	1    3800 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L MOUNT MNT1
+U 1 1 4F3A17D3
+P 3400 3650
+F 0 "MNT1" H 3400 3550 60  0000 C CNN
+F 1 "MOUNT" H 3400 3750 60  0000 C CNN
+	1    3400 3650
+	1    0    0    -1  
+$EndComp
 $Comp
 L CONN_6 P52
 U 1 1 4F213E8D
