@@ -1,7 +1,15 @@
-# EESchema Netlist Version 1.1 created  2/14/2012 2:16:07 AM
+# EESchema Netlist Version 1.1 created  3/18/2012 2:03:24 AM
 (
- ( /4F20BB74 JACK_POWER_PROTO J1 POWER
+ ( /4F65842D C-100 C1 1µF
+  ( 1 N-000067 )
+  ( 2 /BUS2 )
+ )
+ ( /4F658426 C-100 C2 1µF
   ( 1 /BUS1 )
+  ( 2 /BUS2 )
+ )
+ ( /4F20BB74 JACK_POWER_PROTO J1 POWER
+  ( 1 N-000067 )
   ( 2 /BUS2 )
   ( 3 ? )
  )
@@ -12,158 +20,158 @@
   ( M ? )
  )
  ( /4F1FD18A ROW_HOLES_6 P1 CONN_6
-  ( 1 N-000059 )
-  ( 2 N-000060 )
-  ( 3 N-000058 )
-  ( 4 N-000061 )
-  ( 5 N-000057 )
-  ( 6 N-000062 )
+  ( 1 N-000015 )
+  ( 2 N-000016 )
+  ( 3 N-000017 )
+  ( 4 N-000018 )
+  ( 5 N-000019 )
+  ( 6 N-000020 )
  )
  ( /4F1FD187 ROW_HOLES_6 P2 CONN_6
-  ( 1 N-000059 )
-  ( 2 N-000060 )
-  ( 3 N-000058 )
-  ( 4 N-000061 )
-  ( 5 N-000057 )
-  ( 6 N-000062 )
+  ( 1 N-000015 )
+  ( 2 N-000016 )
+  ( 3 N-000017 )
+  ( 4 N-000018 )
+  ( 5 N-000019 )
+  ( 6 N-000020 )
  )
  ( /4F18FC58 ROW_HOLES_1 P3 1pin
-  ( 1 N-000070 )
+  ( 1 N-000078 )
  )
  ( /4F18F7AC ROW_HOLES_3_CONN P4 3pin
-  ( 1 N-000025 )
+  ( 1 N-000035 )
  )
  ( /4F18F7AB ROW_HOLES_3_CONN P5 3pin
-  ( 1 N-000026 )
+  ( 1 N-000034 )
  )
  ( /4F18F7AA ROW_HOLES_3_CONN P6 3pin
-  ( 1 N-000027 )
+  ( 1 N-000033 )
  )
  ( /4F18F7A9 ROW_HOLES_3_CONN P7 3pin
-  ( 1 N-000028 )
+  ( 1 N-000032 )
  )
  ( /4F18F7A8 ROW_HOLES_3_CONN P8 3pin
-  ( 1 N-000029 )
+  ( 1 N-000031 )
  )
  ( /4F18F7A7 ROW_HOLES_3_CONN P9 3pin
   ( 1 N-000030 )
  )
  ( /4F18F7A6 ROW_HOLES_3_CONN P10 3pin
-  ( 1 N-000031 )
- )
- ( /4F18F7A5 ROW_HOLES_3_CONN P11 3pin
-  ( 1 N-000024 )
- )
- ( /4F18F7A4 ROW_HOLES_3_CONN P12 3pin
-  ( 1 N-000032 )
- )
- ( /4F18F7A3 ROW_HOLES_3_CONN P13 3pin
-  ( 1 N-000034 )
- )
- ( /4F18F9DD ROW_HOLES_3_CONN P14 3pin
-  ( 1 N-000036 )
- )
- ( /4F18F9DE ROW_HOLES_3_CONN P15 3pin
-  ( 1 N-000038 )
- )
- ( /4F18F9DF ROW_HOLES_3_CONN P16 3pin
-  ( 1 N-000040 )
- )
- ( /4F18F9E0 ROW_HOLES_3_CONN P17 3pin
-  ( 1 N-000042 )
- )
- ( /4F191851 ROW_HOLES_2_CONN P18 2pin
-  ( 1 N-000053 )
- )
- ( /4F19184A ROW_HOLES_2_CONN P19 2pin
-  ( 1 N-000053 )
- )
- ( /4F18FC55 ROW_HOLES_1 P20 1pin
-  ( 1 N-000071 )
- )
- ( /4F191854 ROW_HOLES_2_CONN P21 2pin
-  ( 1 N-000054 )
- )
- ( /4F18F72B ROW_HOLES_3_CONN P22 3pin
-  ( 1 N-000051 )
- )
- ( /4F18F72E ROW_HOLES_3_CONN P23 3pin
-  ( 1 N-000033 )
- )
- ( /4F18F72F ROW_HOLES_3_CONN P24 3pin
-  ( 1 N-000047 )
- )
- ( /4F18F730 ROW_HOLES_3_CONN P25 3pin
-  ( 1 N-000045 )
- )
- ( /4F18F731 ROW_HOLES_3_CONN P26 3pin
-  ( 1 N-000043 )
- )
- ( /4F18F732 ROW_HOLES_3_CONN P27 3pin
-  ( 1 N-000041 )
- )
- ( /4F18F733 ROW_HOLES_3_CONN P28 3pin
-  ( 1 N-000039 )
- )
- ( /4F18F735 ROW_HOLES_3_CONN P29 3pin
   ( 1 N-000037 )
  )
- ( /4F18F736 ROW_HOLES_3_CONN P30 3pin
-  ( 1 N-000035 )
+ ( /4F18F7A5 ROW_HOLES_3_CONN P11 3pin
+  ( 1 N-000038 )
  )
- ( /4F18F738 ROW_HOLES_3_CONN P31 3pin
-  ( 1 N-000052 )
+ ( /4F18F7A4 ROW_HOLES_3_CONN P12 3pin
+  ( 1 N-000039 )
  )
- ( /4F18F9D9 ROW_HOLES_3_CONN P32 3pin
-  ( 1 N-000050 )
+ ( /4F18F7A3 ROW_HOLES_3_CONN P13 3pin
+  ( 1 N-000040 )
  )
- ( /4F18F9D8 ROW_HOLES_3_CONN P33 3pin
-  ( 1 N-000048 )
+ ( /4F18F9DD ROW_HOLES_3_CONN P14 3pin
+  ( 1 N-000042 )
  )
- ( /4F18F9D7 ROW_HOLES_3_CONN P34 3pin
-  ( 1 N-000046 )
- )
- ( /4F18F9D6 ROW_HOLES_3_CONN P35 3pin
+ ( /4F18F9DE ROW_HOLES_3_CONN P15 3pin
   ( 1 N-000044 )
  )
- ( /4F191847 ROW_HOLES_2_CONN P36 2pin
+ ( /4F18F9DF ROW_HOLES_3_CONN P16 3pin
+  ( 1 N-000046 )
+ )
+ ( /4F18F9E0 ROW_HOLES_3_CONN P17 3pin
+  ( 1 N-000048 )
+ )
+ ( /4F191851 ROW_HOLES_2_CONN P18 2pin
+  ( 1 N-000058 )
+ )
+ ( /4F19184A ROW_HOLES_2_CONN P19 2pin
+  ( 1 N-000058 )
+ )
+ ( /4F18FC55 ROW_HOLES_1 P20 1pin
+  ( 1 N-000068 )
+ )
+ ( /4F191854 ROW_HOLES_2_CONN P21 2pin
+  ( 1 N-000059 )
+ )
+ ( /4F18F72B ROW_HOLES_3_CONN P22 3pin
+  ( 1 N-000056 )
+ )
+ ( /4F18F72E ROW_HOLES_3_CONN P23 3pin
   ( 1 N-000054 )
  )
+ ( /4F18F72F ROW_HOLES_3_CONN P24 3pin
+  ( 1 N-000052 )
+ )
+ ( /4F18F730 ROW_HOLES_3_CONN P25 3pin
+  ( 1 N-000051 )
+ )
+ ( /4F18F731 ROW_HOLES_3_CONN P26 3pin
+  ( 1 N-000049 )
+ )
+ ( /4F18F732 ROW_HOLES_3_CONN P27 3pin
+  ( 1 N-000047 )
+ )
+ ( /4F18F733 ROW_HOLES_3_CONN P28 3pin
+  ( 1 N-000045 )
+ )
+ ( /4F18F735 ROW_HOLES_3_CONN P29 3pin
+  ( 1 N-000043 )
+ )
+ ( /4F18F736 ROW_HOLES_3_CONN P30 3pin
+  ( 1 N-000041 )
+ )
+ ( /4F18F738 ROW_HOLES_3_CONN P31 3pin
+  ( 1 N-000057 )
+ )
+ ( /4F18F9D9 ROW_HOLES_3_CONN P32 3pin
+  ( 1 N-000055 )
+ )
+ ( /4F18F9D8 ROW_HOLES_3_CONN P33 3pin
+  ( 1 N-000053 )
+ )
+ ( /4F18F9D7 ROW_HOLES_3_CONN P34 3pin
+  ( 1 N-000036 )
+ )
+ ( /4F18F9D6 ROW_HOLES_3_CONN P35 3pin
+  ( 1 N-000050 )
+ )
+ ( /4F191847 ROW_HOLES_2_CONN P36 2pin
+  ( 1 N-000059 )
+ )
  ( /4F1FD122 ROW_HOLES_7 P37 CONN_7
-  ( 1 N-000010 )
-  ( 2 N-000009 )
-  ( 3 N-000011 )
-  ( 4 N-000012 )
-  ( 5 N-000013 )
-  ( 6 N-000014 )
-  ( 7 N-000015 )
+  ( 1 N-000028 )
+  ( 2 N-000029 )
+  ( 3 N-000005 )
+  ( 4 N-000004 )
+  ( 5 N-000003 )
+  ( 6 N-000002 )
+  ( 7 N-000001 )
  )
  ( /4F1FD12D ROW_HOLES_7 P38 CONN_7
-  ( 1 N-000073 )
-  ( 2 N-000074 )
-  ( 3 N-000075 )
-  ( 4 N-000076 )
-  ( 5 N-000077 )
-  ( 6 N-000078 )
-  ( 7 N-000049 )
+  ( 1 N-000021 )
+  ( 2 N-000022 )
+  ( 3 N-000023 )
+  ( 4 N-000024 )
+  ( 5 N-000025 )
+  ( 6 N-000026 )
+  ( 7 N-000027 )
  )
  ( /4F1FD11C ROW_HOLES_7 P39 CONN_7
-  ( 1 N-000010 )
-  ( 2 N-000009 )
-  ( 3 N-000011 )
-  ( 4 N-000012 )
-  ( 5 N-000013 )
-  ( 6 N-000014 )
-  ( 7 N-000015 )
+  ( 1 N-000028 )
+  ( 2 N-000029 )
+  ( 3 N-000005 )
+  ( 4 N-000004 )
+  ( 5 N-000003 )
+  ( 6 N-000002 )
+  ( 7 N-000001 )
  )
  ( /4F1FD12E ROW_HOLES_7 P40 CONN_7
-  ( 1 N-000073 )
-  ( 2 N-000074 )
-  ( 3 N-000075 )
-  ( 4 N-000076 )
-  ( 5 N-000077 )
-  ( 6 N-000078 )
-  ( 7 N-000049 )
+  ( 1 N-000021 )
+  ( 2 N-000022 )
+  ( 3 N-000023 )
+  ( 4 N-000024 )
+  ( 5 N-000025 )
+  ( 6 N-000026 )
+  ( 7 N-000027 )
  )
  ( /4F18F787 ROW_HOLES_17_BUS P41 V+_RAIL
   ( 1 /BUS1 )
@@ -171,111 +179,120 @@
  ( /4F18FFBA ROW_HOLES_17_BUS P42 V-_RAIL
   ( 1 /BUS2 )
  )
- ( /4F18FFA0 ROW_HOLES_13_BUS P43 V+_RAIL
+ ( /4F18FFA0 ROW_HOLES_12_BUS P43 V+_RAIL
   ( 1 /BUS1 )
  )
- ( /4F18F792 ROW_HOLES_13_BUS P44 V-_RAIL
+ ( /4F18F792 ROW_HOLES_12_BUS P44 V-_RAIL
   ( 1 /BUS2 )
  )
- ( /4F1FD0F5 ROW_HOLES_8 P45 CONN_8
-  ( 1 N-000023 )
-  ( 2 N-000016 )
-  ( 3 N-000017 )
-  ( 4 N-000018 )
-  ( 5 N-000019 )
-  ( 6 N-000020 )
-  ( 7 N-000021 )
-  ( 8 N-000022 )
+ ( /4F6584CB ROW_HOLES_6 P45 CONN_6
+  ( 1 N-000063 )
+  ( 2 N-000064 )
+  ( 3 N-000062 )
+  ( 4 N-000065 )
+  ( 5 N-000061 )
+  ( 6 N-000066 )
  )
  ( /4F1FD0C9 ROW_HOLES_8 P46 CONN_8
-  ( 1 N-000002 )
-  ( 2 N-000001 )
-  ( 3 N-000003 )
-  ( 4 N-000004 )
-  ( 5 N-000005 )
-  ( 6 N-000006 )
-  ( 7 N-000007 )
-  ( 8 N-000008 )
+  ( 1 N-000006 )
+  ( 2 N-000007 )
+  ( 3 N-000008 )
+  ( 4 N-000009 )
+  ( 5 N-000010 )
+  ( 6 N-000011 )
+  ( 7 N-000012 )
+  ( 8 N-000013 )
  )
- ( /4F1FD0F6 ROW_HOLES_8 P47 CONN_8
-  ( 1 N-000023 )
-  ( 2 N-000016 )
-  ( 3 N-000017 )
-  ( 4 N-000018 )
-  ( 5 N-000019 )
-  ( 6 N-000020 )
-  ( 7 N-000021 )
-  ( 8 N-000022 )
+ ( /4F6584D9 ROW_HOLES_6 P47 CONN_6
+  ( 1 N-000063 )
+  ( 2 N-000064 )
+  ( 3 N-000062 )
+  ( 4 N-000065 )
+  ( 5 N-000061 )
+  ( 6 N-000066 )
  )
  ( /4F1FD0C7 ROW_HOLES_8 P48 CONN_8
-  ( 1 N-000002 )
-  ( 2 N-000001 )
-  ( 3 N-000003 )
-  ( 4 N-000004 )
-  ( 5 N-000005 )
-  ( 6 N-000006 )
-  ( 7 N-000007 )
-  ( 8 N-000008 )
+  ( 1 N-000006 )
+  ( 2 N-000007 )
+  ( 3 N-000008 )
+  ( 4 N-000009 )
+  ( 5 N-000010 )
+  ( 6 N-000011 )
+  ( 7 N-000012 )
+  ( 8 N-000013 )
  )
  ( /4F211BCE ROW_HOLES_1 P49 1pin
-  ( 1 N-000070 )
+  ( 1 N-000078 )
  )
  ( /4F211BCB ROW_HOLES_1 P50 1pin
-  ( 1 N-000071 )
+  ( 1 N-000068 )
  )
  ( /4F213E8C ROW_HOLES_6 P51 CONN_6
-  ( 1 N-000065 )
-  ( 2 N-000063 )
-  ( 3 N-000066 )
-  ( 4 N-000067 )
-  ( 5 N-000068 )
-  ( 6 N-000069 )
+  ( 1 N-000073 )
+  ( 2 N-000074 )
+  ( 3 N-000075 )
+  ( 4 N-000076 )
+  ( 5 N-000077 )
+  ( 6 N-000072 )
  )
  ( /4F213E8D ROW_HOLES_6 P52 CONN_6
-  ( 1 N-000065 )
-  ( 2 N-000063 )
-  ( 3 N-000066 )
-  ( 4 N-000067 )
-  ( 5 N-000068 )
-  ( 6 N-000069 )
+  ( 1 N-000073 )
+  ( 2 N-000074 )
+  ( 3 N-000075 )
+  ( 4 N-000076 )
+  ( 5 N-000077 )
+  ( 6 N-000072 )
  )
  ( /4F18FC45 SW-TACT-6mm SW1 PUSH_SWITCH
-  ( 1 N-000070 )
-  ( 2 N-000071 )
+  ( 1 N-000078 )
+  ( 2 N-000068 )
  )
  ( /4F1FD0B9 DIP-28-300-PLAIN U1 DIP28
-  ( 1 N-000025 )
-  ( 2 N-000026 )
-  ( 3 N-000027 )
-  ( 4 N-000028 )
-  ( 5 N-000029 )
+  ( 1 N-000035 )
+  ( 2 N-000034 )
+  ( 3 N-000033 )
+  ( 4 N-000032 )
+  ( 5 N-000031 )
   ( 6 N-000030 )
-  ( 7 N-000031 )
-  ( 8 N-000024 )
-  ( 9 N-000032 )
-  ( 10 N-000034 )
-  ( 11 N-000036 )
-  ( 12 N-000038 )
-  ( 13 N-000040 )
-  ( 14 N-000042 )
-  ( 15 N-000044 )
-  ( 16 N-000046 )
-  ( 17 N-000048 )
-  ( 18 N-000050 )
-  ( 19 N-000052 )
-  ( 20 N-000035 )
-  ( 21 N-000037 )
-  ( 22 N-000039 )
-  ( 23 N-000041 )
-  ( 24 N-000043 )
-  ( 25 N-000045 )
-  ( 26 N-000047 )
-  ( 27 N-000033 )
-  ( 28 N-000051 )
+  ( 7 N-000037 )
+  ( 8 N-000038 )
+  ( 9 N-000039 )
+  ( 10 N-000040 )
+  ( 11 N-000042 )
+  ( 12 N-000044 )
+  ( 13 N-000046 )
+  ( 14 N-000048 )
+  ( 15 N-000050 )
+  ( 16 N-000036 )
+  ( 17 N-000053 )
+  ( 18 N-000055 )
+  ( 19 N-000057 )
+  ( 20 N-000041 )
+  ( 21 N-000043 )
+  ( 22 N-000045 )
+  ( 23 N-000047 )
+  ( 24 N-000049 )
+  ( 25 N-000051 )
+  ( 26 N-000052 )
+  ( 27 N-000054 )
+  ( 28 N-000056 )
+ )
+ ( /4F658410 MCP1700-TO92 U2 MCP1700-3.3
+  ( GND /BUS2 )
+  ( Vin N-000067 )
+  ( Vout /BUS1 )
  )
 )
 *
 { Allowed footprints by component:
+$component C1
+ C-*
+ SMD*NP
+$endlist
+$component C2
+ C-*
+ SMD*NP
+$endlist
 $component J1
  JACK*
 $endlist
@@ -290,6 +307,9 @@ $component SW1
 $endlist
 $component U1
  DIP-28*
+$endlist
+$component U2
+ MCP1700*
 $endlist
 $endfootprintlist
 }

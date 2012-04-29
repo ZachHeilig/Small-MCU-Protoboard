@@ -1,4 +1,18 @@
-Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 2/14/2012 2:16:07 AM
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 3/18/2012 2:03:24 AM
+
+BeginCmp
+TimeStamp = /4F65842D;
+Reference = C1;
+ValeurCmp = 1µF;
+IdModule  = C-100;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F658426;
+Reference = C2;
+ValeurCmp = 1µF;
+IdModule  = C-100;
+EndCmp
 
 BeginCmp
 TimeStamp = /4F20BB74;
@@ -319,21 +333,21 @@ BeginCmp
 TimeStamp = /4F18FFA0;
 Reference = P43;
 ValeurCmp = V+_RAIL;
-IdModule  = ROW_HOLES_13_BUS;
+IdModule  = ROW_HOLES_12_BUS;
 EndCmp
 
 BeginCmp
 TimeStamp = /4F18F792;
 Reference = P44;
 ValeurCmp = V-_RAIL;
-IdModule  = ROW_HOLES_13_BUS;
+IdModule  = ROW_HOLES_12_BUS;
 EndCmp
 
 BeginCmp
-TimeStamp = /4F1FD0F5;
+TimeStamp = /4F6584CB;
 Reference = P45;
-ValeurCmp = CONN_8;
-IdModule  = ROW_HOLES_8;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
 EndCmp
 
 BeginCmp
@@ -344,10 +358,10 @@ IdModule  = ROW_HOLES_8;
 EndCmp
 
 BeginCmp
-TimeStamp = /4F1FD0F6;
+TimeStamp = /4F6584D9;
 Reference = P47;
-ValeurCmp = CONN_8;
-IdModule  = ROW_HOLES_8;
+ValeurCmp = CONN_6;
+IdModule  = ROW_HOLES_6;
 EndCmp
 
 BeginCmp
@@ -397,6 +411,13 @@ TimeStamp = /4F1FD0B9;
 Reference = U1;
 ValeurCmp = DIP28;
 IdModule  = DIP-28-300-PLAIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F658410;
+Reference = U2;
+ValeurCmp = MCP1700-3.3;
+IdModule  = MCP1700-TO92;
 EndCmp
 
 EndListe
